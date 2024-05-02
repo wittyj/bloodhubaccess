@@ -25,16 +25,12 @@ We shall require the Apache web server to handle all the http requests to the ap
 The database of choice for this application is the SQLite database which makes development easy for a django based project since all the configurations are already created from the django boilerplate code.
 
 
-## Versions & Feature Changes
-
-# Vesion 1 : [BLoodHubAccess V1](https://github.com/wittyj/BloodHubAccess)
 ### Features
 * Django user Backend Authentication
 * Client authentication Using SMTP email and OTP
 * JQuery Ajax request for Login and Registration
 * Minor Use of Bootstrap
 
-# Vesion 2 : [BLoodHubAccess V2](https://github.com/wittyj/BloodHubAccess_v2)
 * Full Application Breakdown Into Features for easier Management
 * Django Crispy Forms
 * Verification And account activation Links
