@@ -1,4 +1,4 @@
-# BloodBridge
+# BloodHubAccess
 ALX PORTFOLIO PROJECT - A blood Donation Web Application
 
 
@@ -27,14 +27,14 @@ The database of choice for this application is the SQLite database which makes d
 
 ## Versions & Feature Changes
 
-# Vesion 1 : [BLoodBridge V1](https://github.com/hardope/BloodBridge)
+# Vesion 1 : [BLoodHubAccess V1](https://github.com/wittyj/BloodHubAccess)
 ### Features
 * Django user Backend Authentication
 * Client authentication Using SMTP email and OTP
 * JQuery Ajax request for Login and Registration
 * Minor Use of Bootstrap
 
-# Vesion 2 : [BLoodBridge V2](https://github.com/kokole12/BloodBridge_v2)
+# Vesion 2 : [BLoodHubAccess V2](https://github.com/wittyj/BloodHubAccess_v2)
 * Full Application Breakdown Into Features for easier Management
 * Django Crispy Forms
 * Verification And account activation Links
