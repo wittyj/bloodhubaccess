@@ -2,7 +2,7 @@ from django.shortcuts import render
 from django.views.generic import CreateView, DetailView, UpdateView, DeleteView
 from django.contrib.auth.mixins import LoginRequiredMixin, UserPassesTestMixin
 from .models import Appointment
-# Create your views here.
+# Starting the Bloodhubaccess task.
 def home(request):
     return render(request, 'donate/home.html')
 
