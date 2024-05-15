@@ -1,6 +1,7 @@
 # BloodHubAccess
 ALX PORTFOLIO PROJECT - A blood Donation Web Application
 
+Welcome to BloodHubAccess, a blood bank application designed to streamline blood donation and access for Africans. This platform aims to connect donors with recipients, making the process efficient and reliable.
 
 A web application that connects blood donors to doctors and hospitals to provide an easy and quick blood donation process and also helps reach out to blood donors in the event of an emergency.
 
@@ -37,3 +38,13 @@ The database of choice for this application is the SQLite database which makes d
 * Django Mail
 * Events
 * Appointment Creation and Deletion
+
+##Usage
+
+Once the application is up and running, you can:
+
+Register as a donor or recipient.
+Log in to your account.
+Search for blood donations.
+Request blood donations.
+Track your donation history.
